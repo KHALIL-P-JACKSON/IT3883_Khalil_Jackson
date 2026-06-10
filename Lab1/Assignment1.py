@@ -4,7 +4,6 @@
 # Assignment Number: Lab 1
 # Due Date: 06/12/2026
 # Purpose: This program prints a board that allows you to append, clear, and display an input buffer
-#
 
 
 running = True
